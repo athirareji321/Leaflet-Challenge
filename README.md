@@ -43,6 +43,8 @@ This Challenge uses both HTML and JavaScript.
 ### ▶️Result
 🖥️[Leaflet-Part-1 CODE](https://github.com/athirareji321/Leaflet-Challenge/tree/main/Leaflet-Part-1)
 
+🔗[index.html - Leaflet-Part-1 ](http://127.0.0.1:5500/Leaflet-Part-1/index.html)
+
 ![Output Image 1](https://github.com/athirareji321/Leaflet-Challenge/blob/main/Outputs/Leaflet-Part-1.png)
 
 ## 2️⃣Part 2: Gather and Plot Tectonic Plate Boundaries
@@ -57,5 +59,7 @@ Plot a second dataset on the map to illustrate the relationship between tectonic
 
 ### ▶️Result
 🖥️[Leaflet-Part-2 CODE](https://github.com/athirareji321/Leaflet-Challenge/tree/main/Leaflet-Part-2)
+
+🔗[index.html - Leaflet-Part-2 ](http://127.0.0.1:5500/Leaflet-Part-2/index.html)
 
 ![Output Image 1](https://github.com/athirareji321/Leaflet-Challenge/blob/main/Outputs/Leaflet-Part-2.png)
