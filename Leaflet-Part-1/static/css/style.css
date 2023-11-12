@@ -8,3 +8,28 @@ body,
 html {
   height: 100%;
 }
+
+/* Define the legend styles */
+.info.legend {
+  background: white;
+  padding: 15px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+
+/* Style the legend color gradient */
+.info.legend i {
+  width: 50px;
+  height: 15px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.8;
+}
+
+
+/* Clear floats after legend items */
+.info.legend:after {
+  content: "";
+  display: table;
+  clear: both;
+}
