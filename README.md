@@ -10,12 +10,11 @@ This Challenge uses both HTML and JavaScript.
 ## Table of Contents
 
 1. [Part 1: Create the Earthquake Visualisation](#1-part-1-create-the-earthquake-visualisation)
-     1.1. [Steps to Follow](#11-steps-to-follow)
-     1.2. [Result](#12-result)
-
+   - 1.1. [Steps to Follow](#11-steps-to-follow)
+   - 1.2. [Result](#12-result)
 2. [Part 2: Gather and Plot Tectonic Plate Boundaries](#2-part-2-gather-and-plot-tectonic-plate-boundaries)
-     2.1. [Steps to Follow](#21-steps-to-follow)
-     2.2. [Result](#22-result)
+   - 2.1. [Steps to Follow](#21-steps-to-follow)
+   - 2.2. [Result](#22-result)
 
 
 ## 1️⃣Part 1: Create the Earthquake Visualisation
